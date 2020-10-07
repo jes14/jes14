@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Jes, a Senior Software Engineer with a focus on front-end JavaScript, React.
+I'm Jes, a Software Engineer with a focus on front-end JavaScript, React.
 
 The technologies I work with are JavaScript, HTML and CSS with a focus on the frameworks React.js, Gatsby, Next.js, Node and Express.
 
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: Twitter or LinkedIn
+- 📫 How to reach me: [Twitter](https://www.twitter.com) or LinkedIn
 
 <!--
 **jes14/jes14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
