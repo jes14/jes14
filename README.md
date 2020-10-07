@@ -4,7 +4,7 @@ I'm Jes, a Software Engineer with a focus on front-end JavaScript and React.
 
 The technologies I work with are JavaScript, HTML and CSS with a focus on the frameworks React.js, Gatsby and Node.js.
 
-Previously, I developed cool mobile game in the gaming company and interested in data analysis and data analysis.
+Previously, I developed cool mobile game in the gaming company and interested in data analysis and visualization.
 
 When I am not writing code I love to spend time with creating awesome bluetooth native mobile app and reading nonfiction book.
 
