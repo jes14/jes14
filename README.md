@@ -6,7 +6,7 @@ The technologies I work with are JavaScript, HTML and CSS with a focus on the fr
 
 Previously, I developed cool mobile game in the gaming company and interested in data analysis and visualization.
 
-When I am not writing code I love to spend time with creating awesome bluetooth native mobile app and reading nonfiction book.
+Besides of my work, I love to spend time with creating awesome bluetooth native mobile app and reading nonfiction book.
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [Twitter](https://www.twitter.com) or LinkedIn
