@@ -4,12 +4,6 @@ I'm Jes, a Software Engineer with a focus on front-end JavaScript and React.
 
 The technologies I work with are JavaScript, HTML and CSS with a focus on the frameworks React.js, Gatsby and Node.js.
 
-Previously, I developed cool mobile game in the gaming company and interested in data analysis and visualization.
-
-Besides of my work, I love to spend time with creating awesome bluetooth native mobile app and reading nonfiction book.
-
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
-- 📫 How to reach me: [Twitter](https://www.twitter.com) or LinkedIn
 
 
 
@@ -27,4 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Previously, I developed cool mobile game in the gaming company and interested in data analysis and visualization.
+
+- 🌱 I’m currently interestedi in
+- 📫 How to reach me: [Twitter](https://www.twitter.com) or LinkedIn
 -->
