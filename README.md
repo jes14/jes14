@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm YJ, a Software Engineer based in Germany.
+I'm Jes, a Software Engineer based in Germany.
 
 The technologies I work with are JavaScript with a focus on the frameworks React.js.
 I want to leverage my diverse research background in Human-Computer Interaction to build cutting-edge software.
